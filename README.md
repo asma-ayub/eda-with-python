@@ -43,7 +43,7 @@ Cleaning and preparing raw data: handling missing values, transforming categoric
 
 Dimensionality reduction techniques, and an introduction to using Generative AI / LLM tools (PandasAI) for data analysis.
 
-- Worksheet 1 — Reducing the dimensionality of datasets
+- Worksheet 1 — Reducing the dimensionality of datasets (Dimensionality Reduction)
 - Worksheet 2 — Gen AI in Python (introduction to PandasAI for data analysis)
 
 **Data:** `Obesity_data.csv`, `POS_Data.csv`
