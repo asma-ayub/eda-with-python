@@ -55,3 +55,5 @@ Python, pandas, NumPy, Matplotlib/Seaborn, SciPy (statistics), PandasAI.
 ## Status
 
 Coursework/practice notebooks, kept as a reference for EDA and data preprocessing workflows in Python.
+### Practice Notes
+Testing push/pull workflow.
